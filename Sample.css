@@ -1,6 +1,7 @@
 body {
     background-color: rgb(15, 89, 201);
     padding: 30%;
-    border: 25px inset #000000;
+    border: 25px inset #0ff0f0;
     border-radius: 40%;
+
   }
